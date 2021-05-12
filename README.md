@@ -2,7 +2,11 @@
 
 ## Team Members
 
-Place your team member names here.
+Aria Garrett
+Tianhao Yao
+Jonathan Beaubien
+Isabelle Saechao
+Bryce Park
 
 ### Contribution Statements
 
