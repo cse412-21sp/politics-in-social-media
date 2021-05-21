@@ -5,15 +5,14 @@
   title:"Politics in Social Media"
   subtitle:"Exploratory analysis on politics in social media"
   author:"Aria Garrett, Bryce Park, Isabelle Saechao, Jonathan Beaubien, Tianhao Yao"
-  background:"#33333f"
+  background:"#898989"
   color:"#ffffff"
    /]
 
-## Intro
-
-#### Embedding Tableau visualizations
-
-Tableau Visualizations
+# The Impact of Social Media
+Society has shifted more toward online interactions and as a result political communications on
+ social media have become increasingly prevalent. Just as the rhetoric from speeches and rallies
+can be analyzed, so too can online social media posts.
 
 Bryce's Bar Viz
 [TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"165%" height:"600"/]
@@ -23,17 +22,30 @@ Bryce's Word Cloud
 [TableauEmbed link:"https://public.tableau.com/views/Word_Map_Sources_Message/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"165%" height:"600"/]
 ### Descriptions
 
-Isabelle's thing
 [TableauEmbed link:"https://public.tableau.com/views/CSE412/bias?" width:"165%" height:"600"/]
-### Descriptions
+### Republicans and Senators
+Representatives and Senators are the two main groups for the United States congress. The pie charts
+represent the distribution of tweets for the two positions. The distribution is similar to each
+other which implies that there is not a difference between tweets of Representatives and Senators.
+
+From the distribution, the tweets are mainly neutral, are meant for the national audience, and have
+ the three main message types as policy, personal, and support. There are more Representatives in
+ comparison to Senators which could be a factor in why there are more tweets by Representatives.
 
 Aria's Viz
 Filler
 
 Harry's Viz
-[TableauEmbed link:"https://public.tableau.com/views/Wordsneutralvspartisan/Dashboard1?%22width:%22165%" height:"600"/]
+
+[TableauEmbed link:"https://public.tableau.com/views/Wordsneutralvspartisan/Dashboard1?" width:"165%" height:"600"/]
+
+
 ### Descriptions
 
 Jon's Viz
 Filler
+
 ## Sources
+Politcal Social Media Posts Dataset: https://www.kaggle.com/crowdflower/political-social-media-posts
+
+US Politicians Twitter Dataset: https://www.kaggle.com/mrmorj/us-politicians-twitter-dataset
