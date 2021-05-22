@@ -14,13 +14,32 @@ Society has shifted more toward online interactions and as a result political co
  social media have become increasingly prevalent. Just as the rhetoric from speeches and rallies
 can be analyzed, so too can online social media posts.
 
-Bryce's Bar Viz
 [TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"165%" height:"600"/]
-### Descriptions
+### Use of message based on source and bias
+The sources used to analyze this dataset is the medium in which the post was posted on. The
+two mediums in the source dimensions are Twitter and Facebook. People also rated the message judging
+whether or not a particular message was neutral or partisan. This bar is measuring the amount of
+messages.
 
-Bryce's Word Cloud
-[TableauEmbed link:"https://public.tableau.com/views/Word_Map_Sources_Message/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"165%" height:"600"/]
-### Descriptions
+Both sources have similar proportions in terms of bias to neutral and count of messages for each
+type of message. However, Facebook overall has a higher rate of neutral messages compared to Twitter.
+However both were judged to overall have more neutral messages compared to partsan messages. The largest
+three messages for both sources were personal, policy, and support; however, Facebook had more of those
+three proportionally compared to Twitter. Overall, Facebook is thought to have proportionally more
+neutral messages and contain more personal, policy, and support messages compared to Twitter.
+
+[TableauEmbed link:"https://public.tableau.com/views/Work_Map_Sources_V2/Sheet1?:language=en&:display_count=y&:origin=viz_share_link" width:"165%" height:"600"/]
+### Wording used based on message type and source
+This graph depicts multiple key words used from the texts and posts, larger word sizes indicate
+that the word was seen more in the posts and the opposite is true for smaller word sizes. This visualization
+looks at the appearance of these words based on the messages shown. One can highlight and see if
+the word is specific to one source, or combined.
+
+There are many key words depicted althroughout the different message types; some include key figures
+such as Obama or common political key words such as "congress." Some interesting observations to note
+are: attack messages depicted more noun words compared to other message types, policy and support
+do not have any common words unique to only one source, media contained the most unique political words,
+
 
 [TableauEmbed link:"https://public.tableau.com/views/CSE_412_AG_6/partyandbias?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"165%" height:"600"/]
 ### Position and Party
