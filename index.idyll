@@ -59,8 +59,13 @@ that were classified as partisan.
 ### Words used in neutral and partisan messages
 The visuals above are a general overview of the relationship between words used in a political text and whether people perceive the message as neutral or partisan. Since I am not creating an algorithm to calculate each word's appearance in the dataset, I did my best to avoid making deceptive visuals. What I did was manually filtered the messages by words representing different perspectives. In conclusion, I want to show that it is hard to use word categories to accurately determine the messages to be neutral or partisan even though trends are showing in particular words. 
 
-Jon's Viz
-Filler
+[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"1050" height:"850"/]
+### Partisanship and Location
+This map shows how the percentage of partisan social media posts varies across the Untied States. As we can see, some southern states including Georgia, Louisiana, Kentucky. and Utah have the greatest percentage of partisan labelled social media posts. These states are known for being relatively conservative and therefore leaning heavily towards the Republican party. Some states with the smallest percentage of partisan posts include Arkansas, Delaware, and Nevada. I believe some more information might be needed in order to determine the validity of these results by including the amount of social media posts from each state. This is because a state may have a small amount of posts and thus be a worse representation of the state as a whole.
+
+[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PoliticianPostCountWordMap?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"1200" height:"600"/]
+### Who are the big players?
+This word map shows the amount of posts that were posted on each politician's social media. I color coded the names as to show the typical political party representations (red for Republicans, blue for Democrats). The size of each politician's name is scaled to the number of posts. If you hover over each name, you will see the number of posts and also a list of some of their posts (it shows all the posts that are unique from each politician as some posts are the same in content). Right now, I think the list of posts could be cleaned up so you can read the entire post.
 
 ## Sources
 Politcal Social Media Posts Dataset: https://www.kaggle.com/crowdflower/political-social-media-posts
