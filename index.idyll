@@ -22,18 +22,20 @@ Bryce's Word Cloud
 [TableauEmbed link:"https://public.tableau.com/views/Word_Map_Sources_Message/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"165%" height:"600"/]
 ### Descriptions
 
-[TableauEmbed link:"https://public.tableau.com/views/CSE412/bias?" width:"165%" height:"600"/]
-### Republicans and Senators
-Representatives and Senators are the two main groups for the United States congress. The pie charts
+[TableauEmbed link:"https://public.tableau.com/views/CSE_412_AG_6/partyandbias?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"165%" height:"600"/]
+### Position and Party
+Representatives and Senators are the two main groups for the United States Congress. The first three pie charts
 represent the distribution of tweets for the two positions. The distribution is similar to each
-other which implies that there is not a difference between tweets of Representatives and Senators.
+other, which implies that there is not a difference between tweets of Representatives and Senators.
 
 From the distribution, the tweets are mainly neutral, are meant for the national audience, and have
- the three main message types as policy, personal, and support. There are more Representatives in
- comparison to Senators which could be a factor in why there are more tweets by Representatives.
+the three main message types as policy, personal, and support. There are more Representatives in
+comparison to Senators which could be a factor in why there are more tweets by Representatives.
 
-Aria's Viz
-Filler
+The final pie chart demonstrates how political party is correlated with the bias of posts. As shown,
+both parties sent primarily neutral messages, though the Republican party seemed to post more messages
+that were classified as partisan.
+
 
 Harry's Viz
 
