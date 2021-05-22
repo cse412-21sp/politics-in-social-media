@@ -55,13 +55,9 @@ The final pie chart demonstrates how political party is correlated with the bias
 both parties sent primarily neutral messages, though the Republican party seemed to post more messages
 that were classified as partisan.
 
-
-Harry's Viz
-
-[TableauEmbed link:"https://public.tableau.com/views/Wordsneutralvspartisan/Dashboard1?" width:"165%" height:"600"/]
-
-
-### Descriptions
+[TableauEmbed link:"https://public.tableau.com/shared/TFRN7CDWR?" width:"126%" height:"640"/]
+### Words used in neutral and partisan messages
+The visuals above are a general overview of the relationship between words used in a political text and whether people perceive the message as neutral or partisan. Since I am not creating an algorithm to calculate each word's appearance in the dataset, I did my best to avoid making deceptive visuals. What I did was manually filtered the messages by words representing different perspectives. In conclusion, I want to show that it is hard to use word categories to accurately determine the messages to be neutral or partisan even though trends are showing in particular words. 
 
 Jon's Viz
 Filler
