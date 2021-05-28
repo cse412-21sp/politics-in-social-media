@@ -9,12 +9,39 @@
   color:"#ffffff"
    /]
 
+#Do you think you're good at telling what intentions politicians have when tweeting?
+[Scroller]
+  [Graphic]
+      ![example](./static/images/twitter_symbol.jpg)
+  [/Graphic]
+  [Step]
+  ##What was this tweet classified as?
+  ![example](./static/images/tweet2.png)
+  [var name:"myVar" value:"Hidden" /]
+
+  [button onClick:`myVar = "This tweet is classified as an attack message towards another politician!"`]Dispay Answer![/button]
+
+  Answer: [Display value:myVar /]
+  [/Step]
+
+  [Step]
+  ##What about this tweet? How would you classify this tweet?
+  ![example](./static/images/tweet3.png)
+  [var name:"myVar" value:"Hidden" /]
+
+  [button onClick:`myVar = "This tweet is classified as a policy tweet!!"`]Dispay Answer![/button]
+
+  Answer: [Display value:myVar /]
+  [/Step]
+[/Scroller]
+
+
 # The Impact of Social Media
 Society has shifted more toward online interactions and as a result political communications on
  social media have become increasingly prevalent. Just as the rhetoric from speeches and rallies
 can be analyzed, so too can online social media posts.
 
-[TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"165%" height:"600"/]
+[TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
 ### Use of message based on source and bias
 The sources used to analyze this dataset is the medium in which the post was posted on. The
 two mediums in the source dimensions are Twitter and Facebook. People also rated the message judging
@@ -28,11 +55,11 @@ three messages for both sources were personal, policy, and support; however, Fac
 three proportionally compared to Twitter. Overall, Facebook is thought to have proportionally more
 neutral messages and contain more personal, policy, and support messages compared to Twitter.
 
-[TableauEmbed link:"https://public.tableau.com/views/Work_Map_Version_Sheets/Media?:language=en-US&:display_count=n&:origin=viz_share_link" width:"165%" height:"600"/]
-### Wording used based on message type and source
+[TableauEmbed link:"https://public.tableau.com/views/Work_Map_Version_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
+### Wording used based on message type
 This graph depicts multiple key words used from the texts and posts, larger word sizes indicate
 that the word was seen more in the posts and the opposite is true for smaller word sizes. This visualization
-looks at the appearance of these words based on the messages shown. One can highlight and see if
+looks at the appearance of these words based on the messages shown. One can hover and see if
 the word is specific to one source, or a combination of both.
 
 There are many key words depicted althroughout the different message types; some include key figures
