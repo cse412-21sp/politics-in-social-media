@@ -9,30 +9,54 @@
   color:"#ffffff"
    /]
 
-#Do you think you're good at telling what intentions politicians have when tweeting?
 [Scroller]
-  [Graphic]
-      ![example](./static/images/twitter_symbol.jpg)
-  [/Graphic]
+    [Graphic]
+        ![example](./static/images/scroll_bg_one.png)
+    [/Graphic]
+
+  [Step]# The Impact of Social Media
+  Society has shifted more toward online interactions and as a result political communications on
+  social media have become increasingly prevalent. Just as the rhetoric from speeches and rallies
+  can be analyzed, so too can online social media posts.[/Step]
+  [Step]## Facebook has over 2.85 billion users[/Step]
+  [Step]## Twitter has over 186 million users[/Step]
+  [Step]# For Twitter
+  The President of the United States account (@POTUS) has over 11.3 million followers and the First
+  Lady's account (@FLOTUS) has over 2.9 million.  [/Step]
+  [Step]# The latest tweet from @POTUS
+  As of May 27th, 2021:
+  [Tweet id:"1398062543466291200" /][/Step]
+  [Step]# Social Media is prevalent in our daily lives.
+  This makes the weight of the words of politicians even more important. [/Step]
+  [Step]
+  ## Do you think you understand intentions behind posts of politicians?
+  ### We'll give you a series of tweets and see if you can match what other analysts have classified these tweets as!
+  [/Step]
+
   [Step]
   ##What was this tweet classified as?
-  ![example](./static/images/tweet2.png)
-  [var name:"myVar" value:"Hidden" /]
-
-  [button onClick:`myVar = "This tweet is classified as an attack message towards another politician!"`]Dispay Answer![/button]
-
-  Answer: [Display value:myVar /]
+  [Tweet id:"311208340904624128" /]
+  [var name:"test1" value:"Hidden" /]
+  [button onClick:`test1 = "This tweet is classified as an attack message towards another politician!"`]Dispay Answer![/button]
+  ###Answer: [Display value:test1 /]
   [/Step]
 
   [Step]
   ##What about this tweet? How would you classify this tweet?
-  ![example](./static/images/tweet3.png)
-  [var name:"myVar" value:"Hidden" /]
-
-  [button onClick:`myVar = "This tweet is classified as a policy tweet!!"`]Dispay Answer![/button]
-
-  Answer: [Display value:myVar /]
+  [Tweet id:"445583520707379200" /]
+  [var name:"test2" value:"Hidden" /]
+  [button onClick:`test2 = "This tweet is classified as a policy tweet!"`]Dispay Answer![/button]
+  ###Answer: [Display value:test2 /]
   [/Step]
+
+  [Step]
+  ##How about this one?
+  [Tweet id:"458284531712528384" /]
+  [var name:"test3" value:"Hidden" /]
+  [button onClick:`test3 = "This tweet is classified as an attack tweet on another politician!"`]Dispay Answer![/button]
+  ###Answer: [Display value:test3 /]
+  [/Step]
+
 [/Scroller]
 
 
@@ -100,7 +124,7 @@ What I did was manually filtered the messages by words representing different pe
 In conclusion, I want to show that it is hard to use word categories to accurately determine the
 messages to be neutral or partisan even though trends are showing in particular words.
 
-[TableauEmbed link:"https://public.tableau.com/views/Work_Map_Version_Sheets/Media?:language=en-US&:display_count=n&:origin=viz_share_link" width:"165%" height:"600"/]
+[TableauEmbed link:"https://public.tableau.com/views/Work_Map_Version_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"165%" height:"600"/]
 ### Wording used based on message type and source
 This graph depicts multiple key words used from the texts and posts, larger word sizes indicate
 that the word was seen more in the posts and the opposite is true for smaller word sizes. This visualization
