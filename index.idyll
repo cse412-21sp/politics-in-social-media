@@ -11,7 +11,7 @@
 
 [Scroller]
     [Graphic]
-        ![example](./static/images/scroll_bg_one.png)
+        ![example](./static/images/twitter_bg.jpg)
     [/Graphic]
 
   [Step]# The Impact of Social Media
@@ -57,6 +57,13 @@
   ###Answer: [Display value:test3 /]
   [/Step]
 
+  [Step]
+  ## In conclusion
+  No matter how easy or difficult you found it to be identifying these tweets, imagine how much harder
+  it is for a person just scrolling through casually or seeing a tweet from someone they favor! With millions
+  of tweets from politicians being shown daily, it's important to recognize patterns so that you can identify
+  the intentions and tactics used to manipulate and affect readers!
+  [/Step]
 [/Scroller]
 
 [TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PoliticianPostCountWordMap?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
@@ -154,7 +161,7 @@ do not have any common words unique to only one source, media contained the most
 [hr /]
 [br /]
 ### Summary
-Social media accounts have become a prevalent tool for many US politicians. By examining their posts, we 
+Social media accounts have become a prevalent tool for many US politicians. By examining their posts, we
 determined that most contained neutral messages aimed at their national constituency, regardless of party. Several
 factors seemed to be correlated with more neutrality of posts, including using Facebook as a platform and containing
 words such as "love" and "thank." Other factors seemed to correlate with attack messages, such as coming from states
