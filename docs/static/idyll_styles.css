@@ -1315,3 +1315,20 @@ img {
     margin-left: 65vw;
   }
 }
+
+
+/*personal edits to the css */
+.article-header a {
+  text-decoration: none;
+}
+
+.idyll-scroll .idyll-text-container {
+  max-width: 35vw;
+}
+
+
+.idyll-text-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
