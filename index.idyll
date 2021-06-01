@@ -66,7 +66,7 @@
   [/Step]
 
   [Step]
-  ## In conclusion
+  ## Did you get them correct?
   No matter how easy or difficult you found it to be identifying these tweets, imagine how much harder
   it is for a person just scrolling through casually or seeing a tweet from someone they favor! With millions
   of tweets from politicians being shown daily, it's important to recognize patterns so that you can identify
@@ -74,36 +74,37 @@
   [/Step]
 [/Scroller]
 
-[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PoliticianPostCountWordMap?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
+[Float position:"left"]
 ### Who are the big players?
-This word map shows the amount of posts that were posted on each politician's social media. I color
- coded the names as to show the typical political party representations (red for Republicans,
- blue for Democrats). The size of each politician's name is scaled to the number of posts.
- If you hover over each name, you will see the number of posts and also a list of some of their
- posts (it shows all the posts that are unique from each politician as some posts are the same in
- content). Right now, I think the list of posts could be cleaned up so you can read the entire post.
+There are certain politicians known for their social media. Below we can see which politicians are
+actually tweeting the most (colored by their political party.) Notice that some politicians are
+affiliated with multiple parties.
+[/float]
+[Float position:"left"]
+[br /]
+[br /]
+[br /]
+If you hover over the text you can read the specific messages! You can also click on one of the
+labels in the legend to highlight a specific party.
+[/Float]
+[TableauEmbed link:"https://public.tableau.com/views/PoliticianPostCountbyParty/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
 
 [br /]
 [hr /]
 [br /]
 
 [TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
-### Position and Party
-Representatives and Senators are the two main groups for the United States Congress. The first three pie charts
-represent the distribution of tweets for the two positions. The distribution is similar to each
-other, which implies that there is not a difference between tweets of Representatives and Senators.
-
-From the distribution, the tweets are mainly neutral, are meant for the national audience, and have
-the three main message types as policy, personal, and support. There are more Representatives in
-comparison to Senators which could be a factor in why there are more tweets by Representatives.
-
-The final pie chart demonstrates how political party is correlated with the bias of posts. As shown,
-both parties sent primarily neutral messages, though the Republican party seemed to post more messages
-that were classified as partisan.
+### What effect does position and party have for messages sent?
+Representatives and Senators are the two main groups for the United States Congress. One of the main
+goals of the Congress is to represent the people. Thus it would be best if their messages do not contain a
+[Annotation annotation:"According to Oxford Dictionary, a partisan is 'a strong supporter of a party, cause, or person.'"] partisan [/Annotation]
+bias, had a national audience, and did not contain a lot of attack messages. Likewise, we would
+want the same for different parties as well.
 
 [br /]
 [hr /]
 [br /]
+
 
 ### How do sources and classifications affect whether a message is determined as partisan or neutral?
 Understanding the distribution of classifications and the neutrality of these classifications give a better
