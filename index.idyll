@@ -36,7 +36,7 @@
   [Step]
   ##What was this tweet classified as?
   [Tweet id:"311208340904624128" /]
-  [var name:"test1" value:"Hidden" /]
+  [var name:"test1" value:"" /]
   [button onClick:`test1 = "This tweet is classified as an attack message towards another politician!"`]Dispay Answer![/button]
   ###Answer: [Display value:test1 /]
   [/Step]
@@ -44,7 +44,7 @@
   [Step]
   ##What about this tweet? How would you classify this tweet?
   [Tweet id:"445583520707379200" /]
-  [var name:"test2" value:"Hidden" /]
+  [var name:"test2" value:"" /]
   [button onClick:`test2 = "This tweet is classified as a policy tweet!"`]Dispay Answer![/button]
   ###Answer: [Display value:test2 /]
   [/Step]
@@ -52,7 +52,7 @@
   [Step]
   ##How about this one?
   [Tweet id:"458284531712528384" /]
-  [var name:"test3" value:"Hidden" /]
+  [var name:"test3" value:"" /]
   [button onClick:`test3 = "This tweet is classified as an attack tweet on another politician!"`]Dispay Answer![/button]
   ###Answer: [Display value:test3 /]
   [/Step]
@@ -60,7 +60,7 @@
   [Step]
   ##Last one!
   [Tweet id:"432983402610831360" /]
-  [var name:"test4" value:"Hidden" /]
+  [var name:"test4" value:"" /]
   [button onClick:`test4 = "This tweet is classified as an attack tweet on another politician!"`]Dispay Answer![/button]
   ###Answer: [Display value:test4 /]
   [/Step]
@@ -74,6 +74,9 @@
   [/Step]
 [/Scroller]
 
+[div className:"Title-Slide"]
+[p]Overview of the Data[/p]
+[/div]
 [Float position:"left"]
 ### Who are the big players?
 There are certain politicians known for their social media. Below we can see which politicians are
@@ -89,72 +92,56 @@ labels in the legend to highlight a specific party.
 [/Float]
 [TableauEmbed link:"https://public.tableau.com/views/PoliticianPostCountbyParty/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
 
-[br /]
 [hr /]
-[br /]
 
-[TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
 ### What effect does position and party have for messages sent?
 Representatives and Senators are the two main groups for the United States Congress. One of the main
 goals of the Congress is to represent the people. Thus it would be best if their messages do not contain a
 [Annotation annotation:"According to Oxford Dictionary, a partisan is 'a strong supporter of a party, cause, or person.'"] partisan [/Annotation]
 bias, had a national audience, and did not contain a lot of attack messages. Likewise, we would
 want the same for different parties as well.
+[TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
+
+[hr /]
+
+### How is partisanship distributed based on location?
+Bias is everywhere, below is a heat map identifying partisanship based on geographic location.
+# TODO: I plan on changing this later, but this is more of a placeholder because I forgot.
+
+[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
 
 [br /]
 [hr /]
 [br /]
-
-
+[div className:"Title-Slide"]
+[p]Do the words affect the message?[/p]
+[/div]
 ### How do sources and classifications affect whether a message is determined as partisan or neutral?
 Understanding the distribution of classifications and the neutrality of these classifications give a better
 understanding of how these sources distribute information and how the two sources differ.
-We'll explore how sources, classifications, and neutrality all interweave in this next visualization.
+This visualization explores how sources, classifications, and neutrality all interweave in this next visualization.
 [TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
 
-[br /]
 [hr /]
-[br /]
-
-[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
-### Partisanship and Location
-This map shows how the percentage of partisan social media posts varies across the Untied States.
-As we can see, some southern states including Georgia, Louisiana, Kentucky. and Utah have the
-greatest percentage of partisan labelled social media posts. These states are known for being
-relatively conservative and therefore leaning heavily towards the Republican party. Some states with
-the smallest percentage of partisan posts include Arkansas, Delaware, and Nevada. I believe some
-more information might be needed in order to determine the validity of these results by including
-the amount of social media posts from each state. This is because a state may have a small amount
-of posts and thus be a worse representation of the state as a whole.
-
-[br /]
-[hr /]
-[br /]
 
 ### Do you think words that convey emotions in a political text determine its standpoint?
 When someone says to you, "I like your new hairstyle", most likely the person is being friendly and you feel happy. With the series of visualizations below, we will discover whether there is a correlation between the wording of political message and their intention of being neutral or partisan.  
 [TableauEmbed link:"https://public.tableau.com/shared/TFRN7CDWR?" width:"100%" height:"640"/]
 
-[br /]
 [hr /]
-[br /]
 
+### Key words vary in the types of words and the connotation of the words they use.
+These are common words used for each type of message
 [TableauEmbed link:"https://public.tableau.com/views/Work_Map_Version_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
-### Wording used based on message type and source
-This graph depicts multiple key words used from the texts and posts, larger word sizes indicate
-that the word was seen more in the posts and the opposite is true for smaller word sizes. This visualization
-looks at the appearance of these words based on the messages shown. One can highlight and see if
-the word is specific to one source, or a combination of both.
 
-There are many key words depicted althroughout the different message types; some include key figures
-such as Obama or common political key words such as "congress." Some interesting observations to note
-are: attack messages depicted more noun words compared to other message types, policy and support
-do not have any common words unique to only one source, media contained the most unique political words.
 
 [br /]
 [hr /]
 [br /]
-### Summary
+[div className:"Title-Slide"]
+[p]Summary[/p]
+[/div]
+[br /]
 Social media accounts have become a prevalent tool for many US politicians. By examining their posts, we
 determined that most contained neutral messages aimed at their national constituency, regardless of party. Several
 factors seemed to be correlated with more neutrality of posts, including using Facebook as a platform and containing
@@ -164,10 +151,6 @@ like Kentucky and Louisiana, utilizing words like "hurt" and "cant," and having 
 Taken together, it is clear that many factors correlate with the message of online posts. We hope that by learning more
 about these patterns, you are better equipped to think about the purpose of the language used by
 politicians online.
-
-[br /]
-[hr /]
-[br /]
 
 ## Sources
 Politcal Social Media Posts Dataset: https://www.kaggle.com/crowdflower/political-social-media-posts
