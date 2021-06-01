@@ -1332,3 +1332,17 @@ img {
   margin: 0 auto;
   position: relative;
 }
+
+.Title-Slide {
+  background-color: #898989;
+  text-align: center;
+  width: 1000px;
+  height: 100px;
+  margin: auto;
+}
+
+.Title-Slide p {
+  font-size: 44pt;
+  margin: auto;
+  color: white;
+}
