@@ -131,7 +131,6 @@ of posts and thus be a worse representation of the state as a whole.
 [hr /]
 [br /]
 
-[TableauEmbed link:"https://public.tableau.com/shared/TFRN7CDWR?" width:"100%" height:"640"/]
 ### Words used in neutral and partisan messages
 The visuals above are a general overview of the relationship between words used in a political text
 and whether people perceive the message as neutral or partisan. Since I am not creating an algorithm
@@ -139,13 +138,12 @@ to calculate each word's appearance in the dataset, I did my best to avoid makin
 What I did was manually filtered the messages by words representing different perspectives.
 In conclusion, I want to show that it is hard to use word categories to accurately determine the
 messages to be neutral or partisan even though trends are showing in particular words.
-
+[TableauEmbed link:"https://public.tableau.com/shared/TFRN7CDWR?" width:"100%" height:"640"/]
 
 [br /]
 [hr /]
 [br /]
 
-[TableauEmbed link:"https://public.tableau.com/views/Work_Map_Version_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
 ### Wording used based on message type and source
 This graph depicts multiple key words used from the texts and posts, larger word sizes indicate
 that the word was seen more in the posts and the opposite is true for smaller word sizes. This visualization
@@ -156,6 +154,8 @@ There are many key words depicted althroughout the different message types; some
 such as Obama or common political key words such as "congress." Some interesting observations to note
 are: attack messages depicted more noun words compared to other message types, policy and support
 do not have any common words unique to only one source, media contained the most unique political words.
+[TableauEmbed link:"https://public.tableau.com/views/Work_Map_Version_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
+
 
 [br /]
 [hr /]
