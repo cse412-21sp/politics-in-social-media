@@ -107,6 +107,7 @@ want the same for different parties as well.
 
 ### How is partisanship distributed based on location?
 Bias is everywhere, below is a heat map identifying partisanship based on geographic location.
+# TODO: I plan on changing this later, but this is more of a placeholder because I forgot.
 
 [TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
 
@@ -117,7 +118,7 @@ Bias is everywhere, below is a heat map identifying partisanship based on geogra
 ### How do sources and classifications affect whether a message is determined as partisan or neutral?
 Understanding the distribution of classifications and the neutrality of these classifications give a better
 understanding of how these sources distribute information and how the two sources differ.
-We'll explore how sources, classifications, and neutrality all interweave in this next visualization.
+This visualization explores how sources, classifications, and neutrality all interweave in this next visualization.
 [TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
 
 [br /]
@@ -137,16 +138,9 @@ messages to be neutral or partisan even though trends are showing in particular 
 [hr /]
 [br /]
 
-### Wording used based on message type and source
-This graph depicts multiple key words used from the texts and posts, larger word sizes indicate
-that the word was seen more in the posts and the opposite is true for smaller word sizes. This visualization
-looks at the appearance of these words based on the messages shown. One can highlight and see if
-the word is specific to one source, or a combination of both.
-
-There are many key words depicted althroughout the different message types; some include key figures
-such as Obama or common political key words such as "congress." Some interesting observations to note
-are: attack messages depicted more noun words compared to other message types, policy and support
-do not have any common words unique to only one source, media contained the most unique political words.
+### What key words can you find in each type of message?
+Understanding what type of words are used across different types of messages will help you identify
+these keywords when viewing your own politicians.
 [TableauEmbed link:"https://public.tableau.com/views/Work_Map_Version_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
 
 
