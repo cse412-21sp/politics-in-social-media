@@ -105,15 +105,8 @@ want the same for different parties as well.
 [hr /]
 [br /]
 
-### Partisanship and Location
-This map shows how the percentage of partisan social media posts varies across the United States.
-As we can see, some southern states including Georgia, Louisiana, Kentucky. and Utah have the
-greatest percentage of partisan labelled social media posts. These states are known for being
-relatively conservative and therefore leaning heavily towards the Republican party. Some states with
-the smallest percentage of partisan posts include Arkansas, Delaware, and Nevada. I believe some
-more information might be needed in order to determine the validity of these results by including
-the amount of social media posts from each state. This is because a state may have a small amount
-of posts and thus be a worse representation of the state as a whole.
+### How is partisanship distributed based on location?
+Bias is everywhere, below is a heat map identifying partisanship based on geographic location.
 
 [TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
 
