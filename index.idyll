@@ -131,15 +131,9 @@ of posts and thus be a worse representation of the state as a whole.
 [hr /]
 [br /]
 
+### Do you think words that convey emotions in a political text determine its standpoint?
+When someone says to you, "I like your new hairstyle", most likely the person is being friendly and you feel happy. With the series of visualizations below, we will discover whether there is a correlation between the wording of political message and their intention of being neutral or partisan.  
 [TableauEmbed link:"https://public.tableau.com/shared/TFRN7CDWR?" width:"100%" height:"640"/]
-### Words used in neutral and partisan messages
-The visuals above are a general overview of the relationship between words used in a political text
-and whether people perceive the message as neutral or partisan. Since I am not creating an algorithm
-to calculate each word's appearance in the dataset, I did my best to avoid making deceptive visuals.
-What I did was manually filtered the messages by words representing different perspectives.
-In conclusion, I want to show that it is hard to use word categories to accurately determine the
-messages to be neutral or partisan even though trends are showing in particular words.
-
 
 [br /]
 [hr /]
