@@ -18,16 +18,67 @@
   Society has shifted more toward online interactions and as a result political communications on
   social media have become increasingly prevalent. Just as the rhetoric from speeches and rallies
   can be analyzed, so too can online social media posts.[/Step]
+
   [Step]## Facebook has over 2.85 billion users[/Step]
+
   [Step]## Twitter has over 186 million users[/Step]
+
   [Step]# For Twitter
   The President of the United States account (@POTUS) has over 11.3 million followers and the First
   Lady's account (@FLOTUS) has over 2.9 million.  [/Step]
+
   [Step]# The latest tweet from @POTUS
   As of May 27th, 2021:
   [Tweet id:"1398062543466291200" /][/Step]
+
   [Step]# Social Media is prevalent in our daily lives.
   This makes the weight of the words of politicians even more important. [/Step]
+[/Scroller]
+
+[div className:"Title-Slide"]
+[p]Overview of the Data[/p]
+[/div]
+[Float position:"left"]
+### Who are the big players?
+There are certain politicians known for their social media presence. Below we can see which politicians are
+actually tweeting the most (colored by their political party.) Notice that some politicians are
+affiliated with multiple parties.
+[/float]
+[Float position:"left"]
+[br /]
+[br /]
+[br /]
+If you hover over the text you can read the specific messages! You can also click on one of the
+labels in the legend to highlight a specific party.
+[/Float]
+[TableauEmbed link:"https://public.tableau.com/views/PoliticianPostCountbyParty/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
+
+[hr /]
+
+### What effect does position and party have for messages sent?
+Representatives and Senators are the two main groups for the United States Congress. One of the main
+goals of the Congress is to represent legislation to the people. Thus it is necessary to identify any
+[Annotation annotation:"According to Oxford Dictionary, a partisan is 'a strong supporter of a party, cause, or person.'"] partisan [/Annotation]
+bias, their target audience, and messaging style (e.g. attack vs. information) used when reading their posts.
+[TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
+
+[hr /]
+
+### How is partisanship distributed based on location?
+Bias is everywhere, below is a heat map identifying partisan posts correlated with their geographic location.
+# TODO: I plan on changing this later, but this is more of a placeholder because I forgot.
+
+[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
+
+[br /]
+[hr /]
+[br /]
+[div className:"Title-Slide"]
+[p]Do the words affect the message?[/p]
+[/div]
+[Scroller]
+    [Graphic]
+    [/Graphic]
   [Step]
   ## Do you think you understand intentions behind posts of politicians?
   ### We'll give you a series of tweets and see if you can match what other analysts have classified these tweets as!
@@ -74,47 +125,6 @@
   [/Step]
 [/Scroller]
 
-[div className:"Title-Slide"]
-[p]Overview of the Data[/p]
-[/div]
-[Float position:"left"]
-### Who are the big players?
-There are certain politicians known for their social media. Below we can see which politicians are
-actually tweeting the most (colored by their political party.) Notice that some politicians are
-affiliated with multiple parties.
-[/float]
-[Float position:"left"]
-[br /]
-[br /]
-[br /]
-If you hover over the text you can read the specific messages! You can also click on one of the
-labels in the legend to highlight a specific party.
-[/Float]
-[TableauEmbed link:"https://public.tableau.com/views/PoliticianPostCountbyParty/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
-
-[hr /]
-
-### What effect does position and party have for messages sent?
-Representatives and Senators are the two main groups for the United States Congress. One of the main
-goals of the Congress is to represent legislation to the people. Thus it is necessary to identify any
-[Annotation annotation:"According to Oxford Dictionary, a partisan is 'a strong supporter of a party, cause, or person.'"] partisan [/Annotation]
-bias, their target audience, and messaging style (e.g. attack vs. information) used when reading their posts. 
-[TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
-
-[hr /]
-
-### How is partisanship distributed based on location?
-Bias is everywhere, below is a heat map identifying partisan posts correlated with their geographic location.
-# TODO: I plan on changing this later, but this is more of a placeholder because I forgot.
-
-[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
-
-[br /]
-[hr /]
-[br /]
-[div className:"Title-Slide"]
-[p]Do the words affect the message?[/p]
-[/div]
 ### How do sources and classifications affect whether a message is determined as partisan or neutral?
 Understanding the distribution of classifications and the neutrality of these classifications give a better
 understanding of how these sources distribute information and how the two sources differ.
@@ -123,8 +133,8 @@ This visualization explores how sources, classifications, and neutrality all int
 
 [hr /]
 
-### Do you think words that convey emotions in a political text determine its standpoint? 
-When someone says to you, "I like your new hairstyle", most likely the person is being friendly and you feel happy. With the series of visualizations below, we will discover whether there is a correlation between the wording of political message and their intention of being neutral or partisan.  
+### Do you think words that convey emotions in a political text determine its standpoint?
+When someone says to you, "I like your new hairstyle", most likely the person is being friendly and you feel happy. With the series of visualizations below, we will discover whether there is a correlation between the wording of political message and their intention of being neutral or partisan.
 [TableauEmbed link:"https://public.tableau.com/shared/TFRN7CDWR?" width:"100%" height:"640"/]
 
 [hr /]
