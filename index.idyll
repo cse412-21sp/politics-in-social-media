@@ -93,31 +93,20 @@ labels in the legend to highlight a specific party.
 [hr /]
 [br /]
 
-[TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
 ### What effect does position and party have for messages sent?
 Representatives and Senators are the two main groups for the United States Congress. One of the main
 goals of the Congress is to represent the people. Thus it would be best if their messages do not contain a
 [Annotation annotation:"According to Oxford Dictionary, a partisan is 'a strong supporter of a party, cause, or person.'"] partisan [/Annotation]
 bias, had a national audience, and did not contain a lot of attack messages. Likewise, we would
 want the same for different parties as well.
-
-[br /]
-[hr /]
-[br /]
-
-
-### How do sources and classifications affect whether a message is determined as partisan or neutral?
-Understanding the distribution of classifications and the neutrality of these classifications give a better
-understanding of how these sources distribute information and how the two sources differ.
-We'll explore how sources, classifications, and neutrality all interweave in this next visualization.
-[TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
+[TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
 
 [br /]
 [hr /]
 [br /]
 
 ### Partisanship and Location
-This map shows how the percentage of partisan social media posts varies across the Untied States.
+This map shows how the percentage of partisan social media posts varies across the United States.
 As we can see, some southern states including Georgia, Louisiana, Kentucky. and Utah have the
 greatest percentage of partisan labelled social media posts. These states are known for being
 relatively conservative and therefore leaning heavily towards the Republican party. Some states with
@@ -125,7 +114,17 @@ the smallest percentage of partisan posts include Arkansas, Delaware, and Nevada
 more information might be needed in order to determine the validity of these results by including
 the amount of social media posts from each state. This is because a state may have a small amount
 of posts and thus be a worse representation of the state as a whole.
+
+[br /]
+[hr /]
+[br /]
+
 [TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
+### How do sources and classifications affect whether a message is determined as partisan or neutral?
+Understanding the distribution of classifications and the neutrality of these classifications give a better
+understanding of how these sources distribute information and how the two sources differ.
+We'll explore how sources, classifications, and neutrality all interweave in this next visualization.
+[TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
 
 [br /]
 [hr /]
