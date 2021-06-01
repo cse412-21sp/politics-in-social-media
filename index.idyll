@@ -74,6 +74,9 @@
   [/Step]
 [/Scroller]
 
+[div className:"Title-Slide"]
+[p]Overview of the Data[/p]
+[/div]
 [Float position:"left"]
 ### Who are the big players?
 There are certain politicians known for their social media. Below we can see which politicians are
@@ -89,9 +92,7 @@ labels in the legend to highlight a specific party.
 [/Float]
 [TableauEmbed link:"https://public.tableau.com/views/PoliticianPostCountbyParty/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
 
-[br /]
 [hr /]
-[br /]
 
 ### What effect does position and party have for messages sent?
 Representatives and Senators are the two main groups for the United States Congress. One of the main
@@ -101,9 +102,7 @@ bias, had a national audience, and did not contain a lot of attack messages. Lik
 want the same for different parties as well.
 [TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
 
-[br /]
 [hr /]
-[br /]
 
 ### How is partisanship distributed based on location?
 Bias is everywhere, below is a heat map identifying partisanship based on geographic location.
@@ -113,16 +112,16 @@ Bias is everywhere, below is a heat map identifying partisanship based on geogra
 [br /]
 [hr /]
 [br /]
-
+[div className:"Title-Slide"]
+[p]Do the words affect the message?[/p]
+[/div]
 ### How do sources and classifications affect whether a message is determined as partisan or neutral?
 Understanding the distribution of classifications and the neutrality of these classifications give a better
 understanding of how these sources distribute information and how the two sources differ.
 We'll explore how sources, classifications, and neutrality all interweave in this next visualization.
 [TableauEmbed link:"https://public.tableau.com/views/twitter_vs_facebook/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
 
-[br /]
 [hr /]
-[br /]
 
 ### Words used in neutral and partisan messages
 The visuals above are a general overview of the relationship between words used in a political text
@@ -133,9 +132,7 @@ In conclusion, I want to show that it is hard to use word categories to accurate
 messages to be neutral or partisan even though trends are showing in particular words.
 [TableauEmbed link:"https://public.tableau.com/shared/TFRN7CDWR?" width:"100%" height:"640"/]
 
-[br /]
 [hr /]
-[br /]
 
 ### Wording used based on message type and source
 This graph depicts multiple key words used from the texts and posts, larger word sizes indicate
@@ -153,7 +150,10 @@ do not have any common words unique to only one source, media contained the most
 [br /]
 [hr /]
 [br /]
-### Summary
+[div className:"Title-Slide"]
+[p]Summary[/p]
+[/div]
+[br /]
 Social media accounts have become a prevalent tool for many US politicians. By examining their posts, we
 determined that most contained neutral messages aimed at their national constituency, regardless of party. Several
 factors seemed to be correlated with more neutrality of posts, including using Facebook as a platform and containing
@@ -163,10 +163,6 @@ like Kentucky and Louisiana, utilizing words like "hurt" and "cant," and having 
 Taken together, it is clear that many factors correlate with the message of online posts. We hope that by learning more
 about these patterns, you are better equipped to think about the purpose of the language used by
 politicians online.
-
-[br /]
-[hr /]
-[br /]
 
 ## Sources
 Politcal Social Media Posts Dataset: https://www.kaggle.com/crowdflower/political-social-media-posts
