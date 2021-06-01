@@ -69,8 +69,8 @@
   ## Did you get them correct?
   No matter how easy or difficult you found it to be identifying these tweets, imagine how much harder
   it is for a person just scrolling through casually or seeing a tweet from someone they favor! With millions
-  of tweets from politicians being shown daily, it's important to recognize patterns so that you can identify
-  the intentions and tactics used to manipulate and affect readers!
+  of posts from politicians being shown daily, it's important to recognize patterns so that you can identify
+  the intentions and tactics used to influence readers!
   [/Step]
 [/Scroller]
 
@@ -96,16 +96,15 @@ labels in the legend to highlight a specific party.
 
 ### What effect does position and party have for messages sent?
 Representatives and Senators are the two main groups for the United States Congress. One of the main
-goals of the Congress is to represent the people. Thus it would be best if their messages do not contain a
+goals of the Congress is to represent legislation to the people. Thus it is necessary to identify any
 [Annotation annotation:"According to Oxford Dictionary, a partisan is 'a strong supporter of a party, cause, or person.'"] partisan [/Annotation]
-bias, had a national audience, and did not contain a lot of attack messages. Likewise, we would
-want the same for different parties as well.
+bias, their target audience, and messaging style (e.g. attack vs. information) used when reading their posts. 
 [TableauEmbed link:"https://public.tableau.com/shared/Q6PQNZN63?:display_count=n&:origin=viz_share_link" width:"100%" height:"1010"/]
 
 [hr /]
 
 ### How is partisanship distributed based on location?
-Bias is everywhere, below is a heat map identifying partisanship based on geographic location.
+Bias is everywhere, below is a heat map identifying partisan posts correlated with their geographic location.
 # TODO: I plan on changing this later, but this is more of a placeholder because I forgot.
 
 [TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
