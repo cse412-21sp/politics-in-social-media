@@ -115,11 +115,12 @@ more information might be needed in order to determine the validity of these res
 the amount of social media posts from each state. This is because a state may have a small amount
 of posts and thus be a worse representation of the state as a whole.
 
+[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
+
 [br /]
 [hr /]
 [br /]
 
-[TableauEmbed link:"https://public.tableau.com/views/politics_social_media/PartisanPostingsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"850"/]
 ### How do sources and classifications affect whether a message is determined as partisan or neutral?
 Understanding the distribution of classifications and the neutrality of these classifications give a better
 understanding of how these sources distribute information and how the two sources differ.
