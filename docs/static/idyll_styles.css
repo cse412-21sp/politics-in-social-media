@@ -1346,3 +1346,34 @@ img {
   margin: auto;
   color: white;
 }
+
+.aside-container {
+  position: relative;
+  display: block;
+}
+
+.aside {
+  display: block;
+  position: absolute;
+  width: 300px;
+  right: calc((10vw + 350px + 150px) / -2);
+  padding: 10px;
+  border: 1px solid black;
+  box-shadow: 10px 5px 5px #898989;
+}
+
+.left-aside{
+  display: block;
+  position: absolute;
+  width: 300px;
+  left: calc((10vw + 350px + 150px) / -2);
+  padding: 10px;
+  border: 1px solid black;
+  box-shadow: 10px 5px 5px #898989;
+}
+
+#idyll-scroll-1 > .idyll-scroll-graphic {
+  max-width: 1000px;
+  margin: 0 auto;
+  background: #cfcfcf;
+}

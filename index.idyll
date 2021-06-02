@@ -38,19 +38,14 @@
 [div className:"Title-Slide"]
 [p]Overview of the Data[/p]
 [/div]
-[Float position:"left"]
 ### Who are the big players?
 There are certain politicians known for their social media presence. Below we can see which politicians are
 actually tweeting the most (colored by their political party.) Notice that some politicians are
 affiliated with multiple parties.
-[/float]
-[Float position:"left"]
-[br /]
-[br /]
-[br /]
+[aside]
 If you hover over the text you can read the specific messages! You can also click on one of the
 labels in the legend to highlight a specific party.
-[/Float]
+[/aside]
 [TableauEmbed link:"https://public.tableau.com/views/PoliticianPostCountbyParty/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"600"/]
 
 [hr /]
@@ -64,6 +59,7 @@ bias, their target audience, and messaging style (e.g. attack vs. information) u
 
 [hr /]
 
+
 ### How is partisanship distributed based on location?
 Bias is everywhere, below is a heat map identifying partisan posts correlated with their geographic location.
 
@@ -71,10 +67,6 @@ Bias is everywhere, below is a heat map identifying partisan posts correlated wi
 
 [br /]
 [hr /]
-[br /]
-[div className:"Title-Slide"]
-[p]Do the words affect the message?[/p]
-[/div]
 [Scroller]
     [Graphic]
     [/Graphic]
@@ -124,6 +116,11 @@ Bias is everywhere, below is a heat map identifying partisan posts correlated wi
   [/Step]
 [/Scroller]
 
+[br /]
+[br /]
+[div className:"Title-Slide"]
+[p]Do the words affect the message?[/p]
+[/div]
 ### How do sources and classifications affect whether a message is determined as partisan or neutral?
 Understanding the distribution of classifications and the neutrality of these classifications give a better
 understanding of how these sources distribute information and how the two sources differ.

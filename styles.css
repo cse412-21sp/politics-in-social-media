@@ -96,5 +96,7 @@
 }
 
 #idyll-scroll-1 > .idyll-scroll-graphic {
-  background: #898989;
+  max-width: 1000px;
+  margin: 0 auto;
+  background: #cfcfcf;
 }
