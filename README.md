@@ -11,6 +11,7 @@ Bryce Park
 ### Contribution Statements
 
 Isabelle Saechao: Page layout, first scroller, first visualization and description, and parts of the position and party visualization. 
+
 Aria Garrett: Summary, initial graphic description, creating part of/combining the position and party visualization, setting up dataset for map visualization.
 ## Project Proposal Abstract
 
