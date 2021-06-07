@@ -11,7 +11,7 @@ Bryce Park
 ### Contribution Statements
 
 Isabelle Saechao: Page layout, first scroller, first visualization and description, and parts of the position and party visualization. 
-
+Aria Garrett: Summary, initial graphic description, creating part of/combining the position and party visualization, setting up dataset for map visualization.
 ## Project Proposal Abstract
 
 Society has shifted more toward online interactions and as a result political communications on social media have become increasingly prevalent. Just as the rhetoric from speeches and rallies can be analyzed, so too can online social media posts. Our goal is to investigate how US social media posts are utilized on platforms like Facebook and Twitter to convey both partisan and neutral messages, and if a politician’s age, party, government position or geographic location are correlated with these different tones. To address these questions, we anticipate using visualization techniques that emphasize comparative analysis such as word maps, pie charts, and color coded geographical maps to demonstrate our analysis. We will also use interaction techniques such as gamification that require the viewer to predict whether words are more neutral or partisan to increase engagement.  
