@@ -12,7 +12,8 @@ Bryce Park
 
 Isabelle Saechao: Page layout, first scroller, first visualization and description, and parts of the position and party visualization. 
 
-Aria Garrett: Summary, initial graphic description, creating part of/combining the position and party visualization, setting up dataset for map visualization.
+Aria Garrett: Summary, initial graphic description, creating part of/combining the position and party visualization, setting up dataset for map visualization
+
 Tianhao Yao: Narrator in the project video, creating word connotation visualizations.
 ## Project Proposal Abstract
 
